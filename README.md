@@ -9,5 +9,7 @@ I was too bored so i made it instead of calculating myself all the things
 ---
 
 Git clone da repo
+
 Go inside folder
+
 `python3 calculator.py`
